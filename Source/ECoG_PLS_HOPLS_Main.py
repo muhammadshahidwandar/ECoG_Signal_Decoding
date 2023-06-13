@@ -9,7 +9,7 @@ import math
 import os
 import seaborn as sns
 import utils
-from HoplsUtils import *
+from Hopls_utils import *
 
 from hopls import matricize, qsquared, HOPLS
 import torch
