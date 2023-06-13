@@ -5,7 +5,7 @@
 ## Overview
 ![BlockDiagram](https://github.com/muhammadshahidwandar/ECoG_Signal_Decoding/blob/main/images/Ecog_Signal_Decode.jpg)
 
-![Results](https://github.com/muhammadshahidwandar/ECoG_Signal_Decoding/blob/main/images/Hand_trajactory.jpg)
+![Results](https://github.com/muhammadshahidwandar/ECoG_Signal_Decoding/blob/main/images/Hand_trajactory.jpeg)
 The Method consist of following steps as shown in figure above
 
 1. Training a ResNet50 model with the pre-trained weights used for network initialization. Any framework such as tensorflow, pytorch or Caffe can be used. We used code from (RealVAD)(https://github.com/muhammadshahidwandar/Visual-VAD-Unsupervised-Domain-Adaptation) for this step.  
