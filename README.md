@@ -3,7 +3,7 @@
 *[S-VVAD: Visual Voice Activity Detection by Motion Segmentation](Link)
 
 ## Overview
-![BlockDiagram](https://github.com/muhammadshahidwandar/ECoG_Signal_Decoding/blob/master/ECoG_Signal_Decoding.jpg)
+![BlockDiagram](https://github.com/muhammadshahidwandar/ECoG_Signal_Decoding/blob/main/Ecog_Signal_Decode.jpg)
 
 The Method consist of following steps as shown in figure above
 
